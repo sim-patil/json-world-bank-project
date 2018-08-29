@@ -1,2 +1,2 @@
-# json-world-bank-project
-Data wrangling project
+# JSON world bank mini project
+Data wrangling project using pandas and world bank project data
